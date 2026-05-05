@@ -4,6 +4,7 @@ Livesplit Auto Splitter Script and Split Table Templates for Rayman Redemption S
 ## Installing
 ### Auto Splitter Script
 - Make sure you are on Rayman Redemption version 1.1.4. Other versions may have different memory addresses which would not work.
+- The files are mainly for the Any% category. If anyone is interested in using them for other categories, I can consider adding the missing data.
 - Edit the downloaded layout (or your own).
 - Select or create the `Scriptable Auto Splitter`.
 - Under `Script Path`, select the downloaded `rayman_redemption.asl` file.
