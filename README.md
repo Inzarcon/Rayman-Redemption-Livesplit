@@ -7,7 +7,7 @@ Livesplit Auto Splitter Script and Split Table Templates for Rayman Redemption S
 - Edit the downloaded layout (or your own).
 - Select or create the `Scriptable Auto Splitter`.
 - Under `Script Path`, select the downloaded `rayman_redemption.asl` file.
-- Select the `Advanced` section you want (see below).
+- Select the `Advanced` section options you want (see below).
 
 ### Layout
 <img width="200" alt="rr_layout" src="https://github.com/user-attachments/assets/9cc208dd-5d20-43d8-a9a9-8f48decfd780" />
