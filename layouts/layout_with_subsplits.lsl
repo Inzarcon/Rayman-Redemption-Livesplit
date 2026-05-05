@@ -271,7 +271,7 @@
       <Path>LiveSplit.ScriptableAutoSplit.dll</Path>
       <Settings>
         <Version>1.5</Version>
-        <ScriptPath>C:\Users\Inzarcon\Desktop\tmp\rayman_redemption.asl</ScriptPath>
+        <ScriptPath></ScriptPath>
         <Reset>True</Reset>
         <Split>True</Split>
         <CustomSettings>
