@@ -13,7 +13,7 @@ LiveSplit Auto Splitter Script, Layout and Split Table Templates for Rayman Rede
 ### Layout
 <img width="200" alt="rr_layout" src="https://github.com/user-attachments/assets/9cc208dd-5d20-43d8-a9a9-8f48decfd780" />
 
-- There two layout variants:
+- There are two layout variants:
   - `with_subsplits`: For level splits and subsplits between the parts of a level (a.k.a "Screens", "Phases", or "Sublevels").
   - `no_subsplits`: For only the level splits.
 
