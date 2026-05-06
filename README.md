@@ -1,5 +1,5 @@
 # Rayman Redemption LiveSplit
-Livesplit Auto Splitter Script and Split Table Templates for Rayman Redemption Speedrunning.
+LiveSplit Auto Splitter Script, Layout and Split Table Templates for Rayman Redemption Speedrunning.
 
 ## Installing
 ### Auto Splitter Script
