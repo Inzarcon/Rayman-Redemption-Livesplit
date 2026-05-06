@@ -120,7 +120,7 @@ startup
          94, // Child's Play - 3
          97, // The Playhouse - 3
          100, // The Lair of the Chessmaster - Chessmaster Boss
-         103, // Brain Games - Trolls Boss
+         103, // Brain Games - The Menace Boss
 
          107, // Tasty Reception - 3
          111, // Choco Chambers - Choco Monster Boss
